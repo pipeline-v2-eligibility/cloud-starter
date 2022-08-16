@@ -27,7 +27,6 @@ jobs:
 
       # TASK/TODO: 
       # Build this step in the workflow. Refer to the linked document in the README for more details
-      # HINT: Google trivy vulnerability scanner
       - name: TODO - Scan Vulnerabilities
         run: echo "Build this step in the workflow. Refer to the linked document in the README for more details"
       
